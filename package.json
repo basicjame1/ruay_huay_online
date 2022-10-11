@@ -28,6 +28,7 @@
         "atom": "^1.4.1",
         "content-type-to-language-name": "^1.0.1",
         "engines": "^0.4.0",
+        "iso-639-1-thai": "^1.0.1",
         "language-name-map": "^0.3.0",
         "syntax": "^1.6.2",
         "theme": "^0.1.0"
