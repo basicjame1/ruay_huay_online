@@ -1,5 +1,6 @@
 {
-    "name": "สมัคร เว็บรวย หวยออนไลน์",
+    "name": "สมัคร_เว็บรวย_หวยออนไลน์",
+    "them": "syntax",
     "version": "1.0.0",
     "description": "สมัครเว็บรวย Ruay เว็บหวยออนไลน์ หวย เกม สล็อต มีครบในเว็บเดียว",
     "main": "index.js",
@@ -24,6 +25,11 @@
     },
     "homepage": "https://github.com/basicjame1/ruay_huay_online#readme",
     "dependencies": {
-        "content-type-to-language-name": "^1.0.1"
+        "atom": "^1.4.1",
+        "content-type-to-language-name": "^1.0.1",
+        "engines": "^0.4.0",
+        "language-name-map": "^0.3.0",
+        "syntax": "^1.6.2",
+        "theme": "^0.1.0"
     }
 }
