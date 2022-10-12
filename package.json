@@ -1,16 +1,8 @@
 {
-    "name": "ruay_at_online_1227",
+    "name": "ruay at online 1227",
     "them": "syntax",
     "version": "1.1.0",
-    "description": "สมัครเว็บรวย Ruay เว็บหวยออนไลน์ หวย เกม สล็อต มีครบในเว็บเดียว",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/basicjame1/ruay_huay_online.git"
-    },
+    "description": "สมัครเว็บรวย Ruay เว็บหวยออนไลน์ หวย เกม สล็อต มีครบในเว็บเดียว"
     "keywords": [
         "Ruay",
         "เว็บรวย",
@@ -18,19 +10,9 @@
         "สมัครเว็บรวย",
         "เข้าเล่นเว็บรวยฟรี"
     ],
-    "author": "",
+"repository": "https://github.com/basicjame1/ruay_huay_online",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/basicjame1/ruay_huay_online/issues"
-    },
-    "homepage": "https://github.com/basicjame1/ruay_huay_online#readme",
-    "dependencies": {
-        "atom": "^1.4.1",
-        "content-type-to-language-name": "^1.0.1",
-        "engines": "^0.4.0",
-        "iso-639-1-thai": "^1.0.1",
-        "language-name-map": "^0.3.0",
-        "syntax": "^1.6.2",
-        "theme": "^0.1.0"
+    "engines": {
+    "atom": ">=1.0.0 <2.0.0"
     }
 }
